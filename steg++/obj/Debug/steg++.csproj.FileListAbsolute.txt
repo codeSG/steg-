@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\steg++\steg++\bin\Debug\steg++.exe.config
+c:\users\user\documents\visual studio 2015\Projects\steg++\steg++\bin\Debug\steg++.exe
+c:\users\user\documents\visual studio 2015\Projects\steg++\steg++\bin\Debug\steg++.pdb
+c:\users\user\documents\visual studio 2015\Projects\steg++\steg++\obj\Debug\steg++.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\steg++\steg++\obj\Debug\steg__.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\steg++\steg++\obj\Debug\steg__.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\steg++\steg++\obj\Debug\steg++.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\steg++\steg++\obj\Debug\steg++.exe
+c:\users\user\documents\visual studio 2015\Projects\steg++\steg++\obj\Debug\steg++.pdb
+C:\Users\user\documents\visual studio 2015\Projects\steg++\steg++\obj\Debug\steg__.Form2.resources
+C:\Users\user\documents\visual studio 2015\Projects\steg++\steg++\obj\Debug\steg__.Form3.resources
+C:\Users\user\Desktop\sourabh garg and sparsh garg\steg++\steg++\bin\Debug\steg++.exe.config
+C:\Users\user\Desktop\sourabh garg and sparsh garg\steg++\steg++\obj\Debug\steg++.exe
+C:\Users\user\Desktop\sourabh garg and sparsh garg\steg++\steg++\obj\Debug\steg++.pdb
